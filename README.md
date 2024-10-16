@@ -13,4 +13,4 @@ Note: This is of course an imperfect representation since we only use classical 
 The current version is quite big, which is nice for demonstrations, but does use quite some filament.
 Scaled down versions should work the same.
 
-The tolerance chosen for the current releases are fairly lose and the quality might benefit from lowering it slightly.
+The tolerance chosen for the current releases are fairly loose and the quality might benefit from lowering it slightly.
